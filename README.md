@@ -21,9 +21,10 @@ This project applies machine learning and deep learning techniques to detect fra
 - 11. Learning Curve: Random Forest
 - 12. Timing Analysis
 ## 🚀 How to Run
-1. Upload the dataset `bank_transactions_data_2.csv`.
-2. Run each cell sequentially from top to bottom.
-3. Visualizations, metrics, and model evaluations will be printed along the way.
+1. run this command "pip install -r requirements.txt"
+2. Upload the dataset `bank_transactions_data_2.csv`.
+3. Run each cell sequentially from top to bottom.
+4. Visualizations, metrics, and model evaluations will be printed along the way.
 
 ## 📊 Output
 - Accuracy, precision, recall, F1 score, and ROC AUC for XGBoost, Random Forest, Deep Learning, and Ensemble.
